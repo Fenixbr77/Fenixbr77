@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Gabriel Alves!</h1>
-<p align="center">16 anos | Estudo a área de tecnologia | Futuro análista de dados</p>
+<p align="center">16 anos | Estudando a área sobre tecnologia | Futuro análista de dados</p>
 
 ---
 
@@ -26,21 +26,10 @@
 
 ---
 
-## 🎮 Meu Pacman Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fenixbr77/Fenixbr77/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fenixbr77/Fenixbr77/main/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Fenixbr77/Fenixbr77/main/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
 ## 📫 Contato
 - GitHub: [Fenixbr77](https://github.com/Fenixbr77)  
 - Email: alvessilvagabriel965@gmail.com 
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil!</p>
+<p align="center"> Obrigado por visitar meu perfil!</p>
