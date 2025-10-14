@@ -7,7 +7,7 @@
 - ⚡ Cursando Eletrônica  
 - 📚 Cursando Programação  
 - ☕ Estudando Java  
-- 🎲 Foco: análise/banco de dados
+- 🎲 Foco: desenvolvemento de sistemas
 
 ---
 
