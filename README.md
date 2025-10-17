@@ -1,35 +1,29 @@
-<h1 align="center">👋 Olá, eu sou Gabriel Alves!</h1>
-<p align="center">16 anos | Estudando a área sobre tecnologia | Futuro análista de dados</p>
+<h1 align="left">👋 Olá, eu sou Gabriel Alves!</h1>
 
----
+###
 
-## 🔹 Sobre mim
-- ⚡ Cursando Eletrônica  
-- 📚 Cursando Programação  
-- ☕ Estudando Java  
-- 🎲 Foco: desenvolvemento de sistemas
+<p align="left">16 anos | Estudando a área sobre tecnologia | Futuro desenvolvedor de sistemas</p>
 
----
+###
 
-## 💻 Tecnologias que estou estudando
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<h2 align="left">🔹 Sobre mim</h2>
+
+###
+
+<p align="left">⚡ Cursando Eletrônica<br>    📚 Cursando Programação<br>    ☕ Estudando C atualmente<br>    🎲 Foco: desenvolvemento de sistemas</p>
+
+###
+
+<h2 align="left">tecnologias que estudo</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
----
-
-## 📫 Contato
-- GitHub: [Fenixbr77](https://github.com/Fenixbr77)  
-- Email: alvessilvagabriel965@gmail.com 
-
----
-
-<p align="center"> Obrigado por visitar meu perfil!</p>
+###
